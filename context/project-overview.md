@@ -326,6 +326,10 @@ git switch -c lesson-01-setup
 - Browser extension
 - API + CLI tool
 
+### **ScreenShot**
+
+Refer to the screenshot in @context/screenshots for the design
+
 ---
 
 ## 📌 Status
