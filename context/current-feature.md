@@ -1,27 +1,29 @@
 # Current Feature
 
-Dashboard mock data
+<!-- Brief feature or fix name -->
 
 ## Status
 
-<!-- Not Started|In Progress|Completed -->
+<!-- Not Started | In Progress | Completed -->
 
-Completed
+Not Started
 
 ## Goals
 
-- Add a single, simple mock-data module for the dashboard UI until a database is available.
-- Include the current user, item types, collections, and items represented in the dashboard reference.
+<!-- Describe the intended outcome and acceptance criteria. -->
+
+-
 
 ## Notes
 
-- Keep the module as static data only; do not add helper methods.
-- Build verification is blocked by the environment's Turbopack process-port restriction; the new module passes direct linting.
+<!-- Capture implementation decisions, constraints, and verification results. -->
+
+-
 
 ## History
 
-<!-- Keep this updated. Earliest to latest -->
+<!-- Keep this updated. Earliest to latest. -->
 
-- Project setup and boilerplate cleanup
-- Started dashboard mock-data implementation
-- Completed dashboard mock-data implementation
+- 2026-09-18 — Dashboard UI Phase 1 documented and marked In Progress.
+- 2026-09-18 — Implemented the Dashboard UI Phase 1 layout and verified it in the browser.
+- 2026-09-18 — Dashboard UI Phase 1 marked Completed.
